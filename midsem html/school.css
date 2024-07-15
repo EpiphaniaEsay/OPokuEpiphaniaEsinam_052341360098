@@ -1,0 +1,60 @@
+.ov{
+    background-color:rgba(0, 255, 255, 0.2) ;
+    color: black;
+    height: 40px;
+    width: fit-content;
+    font-size: larger;
+    border-radius: 20px;
+    margin-inline: 10px;
+    
+    
+    }
+
+.im{
+    background-color: rgba(0, 255, 255, 0.2);
+    color: black;
+    height: 40px;
+    width: fit-content;
+    font-size: larger;
+    border-radius: 20px; 
+    margin-inline: 10px;
+}
+.re{
+    width: fit-content;
+    background-color:rgba(0, 255, 255, 0.2);
+    color: black;
+    height: 40px;
+    width: fit-content;
+    font-size: larger;
+    border-radius: 20px;
+    margin-inline: 10px;
+}
+.ab{
+    background-color:rgba(0, 255, 255, 0.2) ;
+    color: black;
+    height: 40px;
+    width: fit-content;
+    font-size: larger;
+    border-radius: 20px;
+    margin-inline: 10px;
+}
+.call{
+    font-weight: 900;
+    height: 900000px;
+}
+.di1{
+    display: inline;
+    padding: 50px;
+}
+.di2{
+    display: inline;
+    padding: 50px;
+}
+.di3{
+    display: inline;
+    padding: 50px;
+}
+
+.ul li{
+list-style-type: none;
+}
